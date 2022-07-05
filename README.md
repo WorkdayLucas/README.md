@@ -6,7 +6,8 @@
 ### <div align="center">Soy Lucas, estoy formándome como desarrollador full-stack, mejorando y aprendiendo más cada día👨‍💻 🚀</div>  
 
 
-### <div align="center">Encantado en el mundo de la Programación y desarrollo de software, Decidí estudiar esta área por la posibilidad tanto de crecimiento profesional como personal 
+### <div align="center">Encantado en el mundo de la Programación y desarrollo de software, Decidí estudiar esta área por la posibilidad tanto de crecimiento profesional como personal, y el aprendizaje continuo.
+Estoy entusiasmado de poner a prueba mis capacidades y mi potencial, poder seguir desarrollándome y en el camino encontrar mi lugar y aportar de mi en este mundo
 </div>
   
 
